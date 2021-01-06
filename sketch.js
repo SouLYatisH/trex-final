@@ -61,7 +61,7 @@ function preload (){
   
   diesound = loadSound("die.mp3")
   
-  cpsound = loadSound("checkpoint.mp3")
+  cpsound = loadSound("checkPoint.mp3")
   
 }
 
